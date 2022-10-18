@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><group>
+	<car id="1">
+		<companyName>Ford</companyName>
+		<model>Mustang</model>
+		<year>2015</year>
+		<price>100000</price>
+	</car>
+	<car id="2">
+		<companyName>Chevrolet</companyName>
+		<model>Camaro</model>
+		<year>2012</year>
+		<price>120000</price>
+	</car>
+	<car id="3">
+		<companyName>Dodge</companyName>
+		<model>Challenger</model>
+		<year>2015</year>
+		<price>10000000</price>
+	</car>
+	<car id="4">
+		<companyName>Ford</companyName>
+		<model>Mustang</model>
+		<year>1967</year>
+		<price>400000</price>
+	</car>
+</group>

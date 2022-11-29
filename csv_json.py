@@ -2,11 +2,10 @@ import csv
 import pandas
 
 
-#stworzyć klasę tasklist
+
 def main():
     filename = "tasks.csv"
-   # header =["task", "date" , "person"]
-    #rows = [["vacuuming", "Monday" , "Peter"],["dinner","Wednesday", "Mia"],["dinner","Wednesday", "Adam"]]
+   
 
     print("-- TASKS LIST --")
     data = []
